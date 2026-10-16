@@ -1,1 +1,1 @@
-Participants
+Participants (Version B)
