@@ -1,0 +1,11 @@
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Fichiers système Windows
+Thumbs.db
+Desktop.ini
+
+# Fichiers d'éditeurs
+.vscode/
+.idea/
